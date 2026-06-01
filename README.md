@@ -84,7 +84,7 @@ apps/two_view_reconstruction.cpp
 - `data/` — data usage instructions
 - `scripts/` — helper scripts
 
-## Recruiter-friendly summary
+## Project Goals
 
 This project is a clean, early-stage implementation of two-view SfM and geometric vision fundamentals in C++. It is designed to show:
 
