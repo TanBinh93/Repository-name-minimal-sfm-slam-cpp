@@ -1,4 +1,4 @@
-# Minimal SfM / SLAM C++ Lab
+# Minimal Structure-from-Motion and Geometric Vision in Modern C++
 
 > Modern C++17 implementation of two-view Structure-from-Motion components for SLAM, XR perception, and geometric vision.
 
