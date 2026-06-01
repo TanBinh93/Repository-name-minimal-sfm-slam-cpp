@@ -1,4 +1,4 @@
-# Minimal SfM / SLAM C++ Lab
+# Minimal Structure-from-Motion and Geometric Vision in Modern C++
 
 > Modern C++17 implementation of two-view Structure-from-Motion components for SLAM, XR perception, and geometric vision.
 
@@ -84,7 +84,7 @@ apps/two_view_reconstruction.cpp
 - `data/` — data usage instructions
 - `scripts/` — helper scripts
 
-## Recruiter-friendly summary
+## Project Goals
 
 This project is a clean, early-stage implementation of two-view SfM and geometric vision fundamentals in C++. It is designed to show:
 
