@@ -1,0 +1,12 @@
+# Build and generated files
+/build/
+/output/
+*.ply
+*.log
+.DS_Store
+.vscode/
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
