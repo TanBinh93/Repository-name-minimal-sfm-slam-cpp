@@ -12,8 +12,6 @@ This repository demonstrates a clean C++ architecture for core 3D vision buildin
 - Sparse triangulation
 - Point cloud export to PLY
 
-The code is intended for recruiters and hiring managers who want to see working geometry and SLAM fundamentals in C++.
-
 ## Implemented features
 
 - ORB keypoint detection and descriptor extraction
